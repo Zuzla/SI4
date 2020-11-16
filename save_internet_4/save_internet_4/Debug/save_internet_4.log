@@ -1,0 +1,4 @@
+﻿  SI_Fuct.cpp
+c:\users\user\source\repos\save_internet_4\save_internet_4\si.h(19): warning C4309: инициализация: усечение константного значения
+c:\users\user\source\repos\save_internet_4\save_internet_4\si_fuct.cpp(56): warning C4838: преобразование из "unsigned char" в "char" требует сужающего преобразования
+  save_internet_4.vcxproj -> C:\Users\USER\source\repos\save_internet_4\Debug\save_internet_4.exe
