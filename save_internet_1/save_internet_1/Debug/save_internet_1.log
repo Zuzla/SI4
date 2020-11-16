@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\user\source\repos\save_internet_1\save_internet_1\source.cpp(16): warning C4244: инициализация: преобразование "std::streamoff" в "size_t", возможна потеря данных
+c:\users\user\source\repos\save_internet_1\save_internet_1\source.cpp(23): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\save_internet_1\save_internet_1\source.cpp(34): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\save_internet_1\save_internet_1\source.cpp(46): warning C4244: инициализация: преобразование "std::streamoff" в "size_t", возможна потеря данных
+c:\users\user\source\repos\save_internet_1\save_internet_1\source.cpp(52): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\save_internet_1\save_internet_1\source.cpp(64): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\save_internet_1\save_internet_1\source.cpp(74): warning C4101: c: неиспользованная локальная переменная
+  save_internet_1.vcxproj -> C:\Users\USER\source\repos\save_internet_1\Debug\save_internet_1.exe
